@@ -3,7 +3,7 @@
   "strings": {
     "app.name": "eOMS",
 
-    "login.title": "Chào mừng đến {appName} 👋🏻",
+    "login.title": "Chào mừng đến eOMS 👋🏻",
     "login.subtitle": "Vui lòng đăng nhập vào tài khoản của bạn",
 
     "login.email.label": "Email",
