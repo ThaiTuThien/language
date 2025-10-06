@@ -1,0 +1,27 @@
+{
+  "meta": { "locale": "vi", "version": 1, "updatedAt": "2025-10-06T00:00:00Z" },
+  "strings": {
+    "app.name": "eOMS",
+
+    "login.title": "Chào mừng đến {appName} 👋🏻",
+    "login.subtitle": "Vui lòng đăng nhập vào tài khoản của bạn",
+
+    "login.email.label": "Email",
+    "login.email.required": "email là trường bắt buộc",
+
+    "login.password.label": "Mật khẩu",
+    "login.password.required": "mật khẩu là trường bắt buộc",
+
+    "login.warehouse.label": "Kho",
+
+    "login.submit": "ĐĂNG NHẬP",
+    "login.submitWithEmail": "ĐĂNG NHẬP BẰNG EMAIL",
+
+    "warehouse.name.itl_binh_duong": "ITL BINH DUONG COMPANY LIMITED",
+    "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CHI NHÁNH TRUNG TÂM - KHO LẠNH",
+    "warehouse.name.kho_tien_son": "Kho Tiên Sơn",
+    "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
+    "warehouse.name.icd_tien_son_block9": "ICD Tiên Sơn (Block9)"
+  }
+}
+
