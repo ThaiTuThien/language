@@ -3,7 +3,7 @@
   "strings": {
     "app.name": "eOMS",
 
-    "login.title": "Welcome to {appName} 👋🏻",
+    "login.title": "Welcome to eOMS 👋🏻",
     "login.subtitle": "Please sign-in to your account",
 
     "login.email.label": "Email",
