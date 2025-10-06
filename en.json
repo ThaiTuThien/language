@@ -1,0 +1,26 @@
+{
+  "meta": { "locale": "en", "version": 1, "updatedAt": "2025-10-06T00:00:00Z" },
+  "strings": {
+    "app.name": "eOMS",
+
+    "login.title": "Welcome to {appName} 👋🏻",
+    "login.subtitle": "Please sign-in to your account",
+
+    "login.email.label": "Email",
+    "login.email.required": "email is a required field",
+
+    "login.password.label": "Password",
+    "login.password.required": "password is a required field",
+
+    "login.warehouse.label": "Warehouse",
+
+    "login.submit": "LOGIN",
+    "login.submitWithEmail": "LOGIN WITH EMAIL",
+
+    "warehouse.name.itl_binh_duong": "ITL BINH DUONG COMPANY LIMITED",
+    "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CENTRAL BRANCH - COLD WAREHOUSE",
+    "warehouse.name.kho_tien_son": "Tien Son Warehouse",
+    "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
+    "warehouse.name.icd_tien_son_block9": "ICD Tien Son (Block9)"
+  }
+}
