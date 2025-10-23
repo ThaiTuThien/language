@@ -1,5 +1,5 @@
 {
-  "meta": { "locale": "en", "version": 1, "updatedAt": "2025-10-06T00:00:00Z" },
+  "meta": { "locale": "en", "version": 2, "updatedAt": "2025-10-23T00:00:00Z" },
   "strings": {
     "app.name": "eOMS",
 
@@ -21,6 +21,10 @@
     "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CENTRAL BRANCH - COLD WAREHOUSE",
     "warehouse.name.kho_tien_son": "Tien Son Warehouse",
     "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
-    "warehouse.name.icd_tien_son_block9": "ICD Tien Son (Block9)"
+    "warehouse.name.icd_tien_son_block9": "ICD Tien Son (Block9)",
+
+    "startendtime.document_order": "Document Order",
+    "startendtime.start": "Start Time",
+    "startendtime.end": "End Time",
   }
 }
