@@ -1,5 +1,5 @@
 {
-  "meta": { "locale": "vi", "version": 1, "updatedAt": "2025-10-06T00:00:00Z" },
+  "meta": { "locale": "vi", "version": 2, "updatedAt": "2025-10-23T00:00:00Z" },
   "strings": {
     "app.name": "eOMS",
 
@@ -21,7 +21,11 @@
     "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CHI NHÁNH TRUNG TÂM - KHO LẠNH",
     "warehouse.name.kho_tien_son": "Kho Tiên Sơn",
     "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
-    "warehouse.name.icd_tien_son_block9": "ICD Tiên Sơn (Block9)"
+    "warehouse.name.icd_tien_son_block9": "ICD Tiên Sơn (Block9)",
+
+    "startendtime.document_order": "Số chứng từ",
+    "startendtime.start": "Bắt đầu",
+    "startendtime.end": "Kết thúc",
   }
 }
 
