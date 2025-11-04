@@ -1,30 +1,225 @@
 {
-  "meta": { "locale": "en", "version": 2, "updatedAt": "2025-10-23T00:00:00Z" },
+    "meta": {
+        "locale": "en",
+        "version": 3,
+        "updatedAt": "2025-11-4T00:00:00Z"
+    },
   "strings": {
-    "app.name": "eOMS",
-
-    "login.title": "Welcome to eOMS 👋🏻",
-    "login.subtitle": "Please sign-in to your account",
-
-    "login.email.label": "Email",
-    "login.email.required": "email is a required field",
-
-    "login.password.label": "Password",
-    "login.password.required": "password is a required field",
-
-    "login.warehouse.label": "Warehouse",
-
-    "login.submit": "LOGIN",
-    "login.submitWithEmail": "LOGIN WITH EMAIL",
-
-    "warehouse.name.itl_binh_duong": "ITL BINH DUONG COMPANY LIMITED",
-    "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CENTRAL BRANCH - COLD WAREHOUSE",
-    "warehouse.name.kho_tien_son": "Tien Son Warehouse",
-    "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
-    "warehouse.name.icd_tien_son_block9": "ICD Tien Son (Block9)",
-
-    "startendtime.document_order": "Document Order",
-    "startendtime.start": "Start Time",
-    "startendtime.end": "End Time"
+    "app.name": {
+      "text": "eOMS",
+      "visible": true
+    },
+    "login.title": {
+      "text": "Welcome to eOMS 👋🏻",
+      "visible": true
+    },
+    "login.subtitle": {
+      "text": "Please sign-in to your account",
+      "visible": true
+    },
+    "login.email.label": {
+      "text": "Email",
+      "visible": true
+    },
+    "login.email.required": {
+      "text": "email is a required field",
+      "visible": true
+    },
+    "login.password.label": {
+      "text": "Password",
+      "visible": true
+    },
+    "login.password.required": {
+      "text": "password is a required field",
+      "visible": true
+    },
+    "login.warehouse.label": {
+      "text": "Warehouse",
+      "visible": true
+    },
+    "login.submit": {
+      "text": "LOGIN",
+      "visible": true
+    },
+    "login.submitWithEmail": {
+      "text": "LOGIN WITH EMAIL",
+      "visible": true
+    },
+    "warehouse.name.itl_binh_duong": {
+      "text": "ITL BINH DUONG COMPANY LIMITED",
+      "visible": true
+    },
+    "warehouse.name.itllog_kho_lanh": {
+      "text": "ITLLOG JSC - CENTRAL BRANCH - COLD WAREHOUSE",
+      "visible": true
+    },
+    "warehouse.name.kho_tien_son": {
+      "text": "Tien Son Warehouse",
+      "visible": true
+    },
+    "warehouse.name.cold_chain_vsip1": {
+      "text": "Cold Chain VSIP1",
+      "visible": true
+    },
+    "warehouse.name.icd_tien_son_block9": {
+      "text": "ICD Tien Son (Block9)",
+      "visible": true
+    },
+    "startendtime.document_order": {
+      "text": "Document Order",
+      "visible": true
+    },
+    "startendtime.start": {
+      "text": "Start Time",
+      "visible": true
+    },
+    "startendtime.end": {
+      "text": "End Time",
+      "visible": true
+    },
+    "startendtime.document_lable": {
+      "text": "Document number",
+      "visible": true
+    },
+    "startendtime.document_lable_validate": {
+      "text": "Please enter document number",
+      "visible": true
+    },
+    "startendtime.start_button": {
+      "text": "Start",
+      "visible": true
+    },
+     "startendtime.end_button": {
+      "text": "End",
+      "visible": true
+    },
+     "inputbyshift.shift.lable": {
+      "text": "Shift",
+      "visible": true
+    },
+    "inputbyshift.hint_text": {
+      "text": "Select",
+      "visible": true
+    },
+    "inputbyshift.group.lable": {
+      "text": "Group",
+      "visible": true
+    },
+    "inputbyshift.leader.lable": {
+      "text": "Leader",
+      "visible": true
+    },
+    "empltableshift.searchfield": {
+      "text": "Search by code, employee name",
+      "visible": true
+    },
+    "empltableshift.empl_table_lable": {
+      "text": "Search by code, employee name",
+      "visible": true
+    },
+    "docnotableshift.button": {
+      "text": "Save",
+      "visible": true
+    },
+    "docnofieldshift.empty_validate": {
+      "text": "Field is required",
+      "visible": true
+    },
+    "docnofieldshift.keyword_validate": {
+      "text": "At least 4 characters",
+      "visible": true
+    },
+    "docnofieldshift.lable": {
+      "text": "Doc No",
+      "visible": true
+    },
+    "inputbyteams.shift.lable": {
+      "text": "Shift",
+      "visible": true
+    },
+    "inputbyteams.hint_text": {
+      "text": "Select",
+      "visible": true
+    },
+    "inputbyteams.group.lable": {
+      "text": "Group",
+      "visible": true
+    },
+    "inputbyteams.leader.lable": {
+      "text": "Leader",
+      "visible": true
+    },
+    "empltable.searchfield": {
+      "text": "Search by code, employee name",
+      "visible": true
+    },
+    "empltable.empl_table_lable": {
+      "text": "Search by code, employee name",
+      "visible": true
+    },
+    "docnotable.button": {
+      "text": "Save",
+      "visible": true
+    },
+    "docnofield.empty_validate": {
+      "text": "Field is required",
+      "visible": true
+    },
+    "docnofield.keyword_validate": {
+      "text": "At least 4 characters",
+      "visible": true
+    },
+    "docnofield.lable": {
+      "text": "Doc No",
+      "visible": true
+    },
+    "checkinout.lable_gate": {
+      "text": "Gate",
+      "visible": true
+    },
+    "checkinout.lable_date": {
+      "text": "Date",
+      "visible": true
+    },
+     "checkinout.hint_gate": {
+      "text": "Select Gate",
+      "visible": true
+    },
+    "checkinout.hint_date": {
+      "text": "Select Date",
+      "visible": true
+    },
+    "checkinout.card_info_title": {
+      "text": "Check-in Infomation",
+      "visible": true
+    },
+    "checkinout.card_info_checked_in": {
+      "text": "Checked-in",
+      "visible": true
+    },
+    "checkinout.card_info_check_in": {
+      "text": "Haven't checked in yet",
+      "visible": true
+    },
+    "checkinout.card_info_date": {  
+      "text": "Entry time",
+      "visible": true
+    },
+    "checkinout.card_checkin_header_empcode": {
+      "text": "Emp Code",
+      "visible": true
+    },
+    "checkinout.card_checkin_header_idcard": {
+      "text": "ID card",
+      "visible": true
+    },
+     "checkinout.card_checkin_header_car": {
+      "text": "Car Number",
+      "visible": true
+    },
+     "checkinout.card_checkin_error_emp": {
+      "text": "No staff found",
+      "visible": true
+    }
   }
 }
