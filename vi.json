@@ -1,31 +1,221 @@
 {
-  "meta": { "locale": "vi", "version": 2, "updatedAt": "2025-10-23T00:00:00Z" },
+  "meta": {
+    "locale": "vi",
+    "version": 3,
+    "updatedAt": "2025-11-04T00:00:00Z"
+  },
   "strings": {
-    "app.name": "eOMS",
-
-    "login.title": "Chào mừng đến eOMS 👋🏻",
-    "login.subtitle": "Vui lòng đăng nhập vào tài khoản của bạn",
-
-    "login.email.label": "Email",
-    "login.email.required": "email là trường bắt buộc",
-
-    "login.password.label": "Mật khẩu",
-    "login.password.required": "mật khẩu là trường bắt buộc",
-
-    "login.warehouse.label": "Kho",
-
-    "login.submit": "ĐĂNG NHẬP",
-    "login.submitWithEmail": "ĐĂNG NHẬP BẰNG EMAIL",
-
-    "warehouse.name.itl_binh_duong": "ITL BINH DUONG COMPANY LIMITED",
-    "warehouse.name.itllog_kho_lanh": "ITLLOG JSC - CHI NHÁNH TRUNG TÂM - KHO LẠNH",
-    "warehouse.name.kho_tien_son": "Kho Tiên Sơn",
-    "warehouse.name.cold_chain_vsip1": "Cold Chain VSIP1",
-    "warehouse.name.icd_tien_son_block9": "ICD Tiên Sơn (Block9)",
-
-    "startendtime.document_order": "Số chứng từ",
-    "startendtime.start": "Bắt đầu",
-    "startendtime.end": "Kết thúc"
+    "app.name": {
+      "text": "eOMS",
+      "visible": true
+    },
+    "login.title": {
+      "text": "Chào mừng đến eOMS 👋🏻",
+      "visible": true
+    },
+    "login.subtitle": {
+      "text": "Vui lòng đăng nhập vào tài khoản của bạn",
+      "visible": true
+    },
+    "login.email.label": {
+      "text": "Email",
+      "visible": true
+    },
+    "login.email.required": {
+      "text": "Email là trường bắt buộc",
+      "visible": true
+    },
+    "login.password.label": {
+      "text": "Mật khẩu",
+      "visible": true
+    },
+    "login.password.required": {
+      "text": "Mật khẩu là trường bắt buộc",
+      "visible": true
+    },
+    "login.warehouse.label": {
+      "text": "Kho",
+      "visible": true
+    },
+    "login.submit": {
+      "text": "ĐĂNG NHẬP",
+      "visible": true
+    },
+    "login.submitWithEmail": {
+      "text": "ĐĂNG NHẬP BẰNG EMAIL",
+      "visible": true
+    },
+    "warehouse.name.itl_binh_duong": {
+      "text": "CÔNG TY TNHH ITL BÌNH DƯƠNG",
+      "visible": true
+    },
+    "warehouse.name.itllog_kho_lanh": {
+      "text": "ITLLOG JSC - CHI NHÁNH TRUNG TÂM - KHO LẠNH",
+      "visible": true
+    },
+    "warehouse.name.kho_tien_son": {
+      "text": "Kho Tiên Sơn",
+      "visible": true
+    },
+    "warehouse.name.cold_chain_vsip1": {
+      "text": "Chuỗi lạnh VSIP1",
+      "visible": true
+    },
+    "warehouse.name.icd_tien_son_block9": {
+      "text": "ICD Tiên Sơn (Block9)",
+      "visible": true
+    },
+    "startendtime.document_order": {
+      "text": "Số chứng từ",
+      "visible": true
+    },
+    "startendtime.start": {
+      "text": "Bắt đầu",
+      "visible": true
+    },
+    "startendtime.end": {
+      "text": "Kết thúc",
+      "visible": true
+    },
+    "startendtime.document_lable": {
+      "text": "Số chứng từ",
+      "visible": true
+    },
+    "startendtime.document_lable_validate": {
+      "text": "Vui lòng nhập số chứng từ",
+      "visible": true
+    },
+    "startendtime.start_button": {
+      "text": "Bắt đầu",
+      "visible": true
+    },
+    "startendtime.end_button": {
+      "text": "Kết thúc",
+      "visible": true
+    },
+    "inputbyshift.shift.lable": {
+      "text": "Ca",
+      "visible": true
+    },
+    "inputbyshift.hint_text": {
+      "text": "Chọn",
+      "visible": true
+    },
+    "inputbyshift.group.lable": {
+      "text": "Nhóm",
+      "visible": true
+    },
+    "inputbyshift.leader.lable": {
+      "text": "Tổ trưởng",
+      "visible": true
+    },
+    "empltableshift.searchfield": {
+      "text": "Tìm kiếm theo mã hoặc tên nhân viên",
+      "visible": true
+    },
+    "empltableshift.empl_table_lable": {
+      "text": "Tìm kiếm theo mã hoặc tên nhân viên",
+      "visible": true
+    },
+    "docnotableshift.button": {
+      "text": "Lưu",
+      "visible": true
+    },
+    "docnofieldshift.empty_validate": {
+      "text": "Vui lòng nhập",
+      "visible": true
+    },
+    "docnofieldshift.keyword_validate": {
+      "text": "Tối thiểu 4 ký tự",
+      "visible": true
+    },
+    "docnofieldshift.lable": {
+      "text": "Số chứng từ",
+      "visible": true
+    },
+    "inputbyteams.shift.lable": {
+      "text": "Ca",
+      "visible": true
+    },
+    "inputbyteams.hint_text": {
+      "text": "Chọn",
+      "visible": true
+    },
+    "inputbyteams.group.lable": {
+      "text": "Nhóm",
+      "visible": true
+    },
+    "inputbyteams.leader.lable": {
+      "text": "Tổ trưởng",
+      "visible": true
+    },
+    "empltable.searchfield": {
+      "text": "Tìm kiếm theo mã hoặc tên nhân viên",
+      "visible": true
+    },
+    "docnotable.button": {
+      "text": "Lưu",
+      "visible": true
+    },
+    "docnofield.empty_validate": {
+      "text": "Vui lòng nhập",
+      "visible": true
+    },
+    "docnofield.keyword_validate": {
+      "text": "Tối thiểu 4 ký tự",
+      "visible": true
+    },
+    "docnofield.lable": {
+      "text": "Số chứng từ",
+      "visible": true
+    },
+    "checkinout.lable_gate": {
+      "text": "Cổng",
+      "visible": true
+    },
+    "checkinout.lable_date": {
+      "text": "Ngày",
+      "visible": true
+    },
+    "checkinout.hint_gate": {
+      "text": "Chọn cổng",
+      "visible": true
+    },
+    "checkinout.hint_date": {
+      "text": "Chọn ngày",
+      "visible": true
+    },
+    "checkinout.card_info_title": {
+      "text": "Thông tin check-in",
+      "visible": true
+    },
+    "checkinout.card_info_checked_in": {
+      "text": "Đã check-in",
+      "visible": true
+    },
+    "checkinout.card_info_check_in": {
+      "text": "Chưa check-in",
+      "visible": true
+    },
+    "checkinout.card_info_date": {
+      "text": "Thời gian vào",
+      "visible": true
+    },
+    "checkinout.card_checkin_header_empcode": {
+      "text": "Mã NV",
+      "visible": true
+    },
+    "checkinout.card_checkin_header_idcard": {
+      "text": "CMND",
+      "visible": true
+    },
+    "checkinout.card_checkin_header_car": {
+      "text": "Số xe",
+      "visible": true
+    },
+    "checkinout.card_checkin_error_emp": {
+      "text": "Không tìm thấy nhân viên",
+      "visible": true
+    }
   }
 }
-
