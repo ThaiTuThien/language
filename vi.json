@@ -66,14 +66,22 @@
       "visible": true
     },
     "startendtime.document_order": {
-      "text": "Số chứng từ",
+      "text": "Thứ tự chứng từ",
       "visible": true
     },
     "startendtime.start": {
+      "text": "Thời gian bắt đầu",
+      "visible": true
+    },
+    "startendtime.start.screen_title": {
       "text": "Bắt đầu",
       "visible": true
     },
     "startendtime.end": {
+      "text": "Thời gian kết thúc",
+      "visible": true
+    },
+    "startendtime.end.screen_title": {
       "text": "Kết thúc",
       "visible": true
     },
@@ -107,6 +115,14 @@
     },
     "inputbyshift.leader.lable": {
       "text": "Tổ trưởng",
+      "visible": true
+    },
+    "inputbyshift.work.lable": {
+      "text": "Công việc",
+      "visible": true
+    },
+    "inputbyshift.screen.title": {
+      "text": "SL theo ca",
       "visible": true
     },
     "empltableshift.searchfield": {
@@ -146,7 +162,15 @@
       "visible": true
     },
     "inputbyteams.leader.lable": {
-      "text": "Tổ trưởng",
+      "text": "Nhóm trưởng",
+      "visible": true
+    },
+    "inputbyteams.work.lable": {
+      "text": "Công việc",
+      "visible": true
+    },
+    "inputbyteams.screen.title": {
+      "text": "SL theo nhóm",
       "visible": true
     },
     "empltable.searchfield": {
@@ -201,6 +225,10 @@
       "text": "Thời gian vào",
       "visible": true
     },
+    "checkinout.card_info_status": {
+      "text": "Trạng thái",
+      "visible": true
+    },
     "checkinout.card_checkin_header_empcode": {
       "text": "Mã NV",
       "visible": true
@@ -215,6 +243,18 @@
     },
     "checkinout.card_checkin_error_emp": {
       "text": "Không tìm thấy nhân viên",
+      "visible": true
+    },
+    "checkinout.sreen.title": {
+      "text": "Ghi nhận ra vào",
+      "visible": true
+    },
+    "title.update_version": {
+      "text": "Cập nhật phiên bản",
+      "visible": true
+    },
+    "logout.title": {
+      "text": "Đăng xuất",
       "visible": true
     }
   }
